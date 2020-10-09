@@ -27,8 +27,7 @@
   <tr>
     <td class="infotd">
       <h3>Katerina Sofroniou</h3>
-      <p>
-        I am currently a first year student studying Computer Science at City, University of London.
+      <p> I am currently a first year student studying Computer Science at City, University of London.
         I have always been interested in technology and computers, but started coding when
         I was in year 8 and 12 years old. I have taught myself many programming languages
         (such as Javascript, HTML and CSS) as well as learning Java and Python within school
@@ -63,7 +62,6 @@
 
     <p>
       Check out the code on Github: <a href="https://github.com/KaterinaSofroniou/adbs900/tree/main/Project">MP3 Player with an Audio Visualer</a>
-      Check out the code on Github: <a href="https://github.com/KaterinaSofroniou/adbs900/tree/main/Project"> MP3 Player With a Visualiser</a>
     </p>
   <td>
 	<video width="429" height="200" controls>
