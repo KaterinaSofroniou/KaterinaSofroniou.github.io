@@ -62,7 +62,11 @@
         ones) and also user interaction. </p>
 
     <p>
+<<<<<<< HEAD:index.md
       Check out the code on Github: <a href="https://github.com/KaterinaSofroniou/adbs900/tree/main/Project">MP3 Player with an Audio Visualer</a>
+=======
+      Check out the code on Github: <a href="https://github.com/KaterinaSofroniou/adbs900/tree/main/Project"> MP3 Player With a Visualiser</a>
+>>>>>>> 11db0a2cc383adb04d5a2eb2f6b2716da9ea6188:index.html
     </p>
   <td>
 	<video width="429" height="200" controls>
